@@ -2,7 +2,6 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Camera_ctroul
-    - Readme
     - eatprop
     - player
     UnityEditor.Graphs.dll:
@@ -81,7 +80,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12112}
     - Class: 114
-      Script: {instanceID: 18392}
+      Script: {instanceID: 18398}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
