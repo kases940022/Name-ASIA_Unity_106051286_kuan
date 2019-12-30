@@ -44,7 +44,7 @@ public class eatprop : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.R))
 
             {
-                SceneManager.LoadScene("迷宮 ");     
+                SceneManager.LoadScene("迷宮"); 
             }
         }
     }
